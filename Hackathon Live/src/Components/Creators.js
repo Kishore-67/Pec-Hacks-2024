@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, Routes, Route, Outlet } from 'react-router-dom';
 import AIAssistant from './Other/AIAssistant';
-import ThumbnailGenerator from './Other/Thumbnailgenerator';
+import ThumbnailGenerator from './Other/ThumbnailGenerator';
 import '../Styles/Creator.css';
 
 function Creator() {
